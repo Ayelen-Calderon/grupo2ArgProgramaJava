@@ -7,6 +7,7 @@ public class Pronostico {
     }
 
     public void darPronostico(Resultado pronostico) {
+
         this.pronostico = pronostico;
     }
 
